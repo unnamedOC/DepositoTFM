@@ -1,6 +1,6 @@
 # DepositoTFM
 
-Descargar archivo chromedriver.exe para la ejecucion del webscraping. 
+Descargar archivo chromedriver.exe para la ejecucion del webscraping. El fichero es adjuntado en este repositorio pero se tendrá que verificar que es la última versión.
 La web es la siguiente: https://chromedriver.chromium.org/
 
 COLOCACIÓN DE FICHEROS
