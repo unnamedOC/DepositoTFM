@@ -1,11 +1,11 @@
-### Trabajo Fin de Master
-## IMPLEMENTACIÓN DE UN SISTEMA RECOMENDADOR DE SUPERMERCADOS
+# IMPLEMENTACIÓN DE UN SISTEMA RECOMENDADOR DE SUPERMERCADOS
+## Trabajo Fin de Master
 
-# Proyecto desarrollado como parte de un Trabajo Fin de Master en la Universidad Internacional de La Rioja
-# by Lander Ortiz Crespo
+### Proyecto desarrollado como parte de un Trabajo Fin de Master en la Universidad Internacional de La Rioja
+### by Lander Ortiz Crespo
 
 
-# Pasos a seguir:
+### Pasos a seguir:
 
 DESCARGA
 1 - Descargar archivo chromedriver.exe para la ejecucion del webscraping. El fichero es adjuntado en este repositorio pero se tendrá que verificar que es la última versión.
