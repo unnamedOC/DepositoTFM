@@ -9,8 +9,7 @@
 #### Pasos a seguir:
 
 ##### DESCARGA
-###### 1 - Descargar archivo chromedriver.exe para la ejecucion del webscraping. El fichero es adjuntado en este repositorio pero se tendrá que verificar que es la última versión.
-La web es la siguiente: https://chromedriver.chromium.org/
+###### 1 - Descargar archivo chromedriver.exe para la ejecucion del webscraping. El fichero es adjuntado en este repositorio pero se tendrá que verificar que es la última versión. ###### La web es la siguiente: https://chromedriver.chromium.org/
 ###### 2 - Instalar la libreria selenium en python para realizar las operaciones de webscraping: "pip3 install selenium" 
 
 ##### COLOCACIÓN DE FICHEROS
