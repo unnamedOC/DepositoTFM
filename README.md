@@ -1,8 +1,8 @@
 ### Trabajo Fin de Master
-### IMPLEMENTACIÓN DE UN SISTEMA RECOMENDADOR DE SUPERMERCADOS
+## IMPLEMENTACIÓN DE UN SISTEMA RECOMENDADOR DE SUPERMERCADOS
 
-## Proyecto desarrollado como parte de un Trabajo Fin de Master en la Universidad Internacional de La Rioja
-## by Lander Ortiz Crespo
+# Proyecto desarrollado como parte de un Trabajo Fin de Master en la Universidad Internacional de La Rioja
+# by Lander Ortiz Crespo
 
 
 # Pasos a seguir:
